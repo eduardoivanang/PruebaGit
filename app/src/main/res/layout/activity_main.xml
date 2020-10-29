@@ -34,4 +34,13 @@
         android:layout_below="@id/boton"
         />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit1"
+        android:text="AGREGAMOS MAS COSAS"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
+
 </RelativeLayout>
